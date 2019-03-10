@@ -1,2 +1,2 @@
-# MaterialElements
-Some material like components for iOS.
+# iOS Goodies 
+Some componenets and goodies for iOS.
