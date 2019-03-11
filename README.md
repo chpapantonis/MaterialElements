@@ -1,2 +1,3 @@
 # iOS Goodies 
-Some componenets and goodies for iOS.
+Some components and goodies for iOS.
+* Material Loading Spinner
